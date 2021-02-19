@@ -12,6 +12,5 @@ int main(){
     for(int k=0;k<4;k++)
     max+=arr[k];
     cout<<min<<" "<<max;
-    cout<<"hello"<<endl;
     return 0;
 }
